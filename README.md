@@ -1,2 +1,2 @@
-# MatrixLatex
-[embed]https://github.com/Ishan1742/MatrixLatex/blob/master/Matrix_Exponentiation.pdf[/embed]
+# Matrix Exponentiation
+A Latex Document about Matrix Exponentiation to find the Nth fibonacci number. 
